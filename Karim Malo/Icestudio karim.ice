@@ -132,6 +132,22 @@
             "width": 96,
             "height": 64
           }
+        },
+        {
+          "id": "d5ec72af-a7ee-4dcd-897f-79fad8e4c97f",
+          "type": "basic.info",
+          "data": {
+            "info": "XGI:\nEz dator bat egiaren taularekin.\nIrteeran ez dira kanpoko led-ak aktibatzekoak",
+            "readonly": false
+          },
+          "position": {
+            "x": 544,
+            "y": 0
+          },
+          "size": {
+            "width": 432,
+            "height": 112
+          }
         }
       ],
       "wires": [
@@ -199,10 +215,10 @@
     },
     "state": {
       "pan": {
-        "x": 115,
-        "y": 53.5
+        "x": -89.2,
+        "y": 24.6
       },
-      "zoom": 1
+      "zoom": 0.95
     }
   },
   "dependencies": {

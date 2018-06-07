@@ -228,6 +228,22 @@
             "width": 96,
             "height": 64
           }
+        },
+        {
+          "id": "892815f4-cc18-40a0-b26a-921538178b67",
+          "type": "basic.info",
+          "data": {
+            "info": "XGI: El programa debe actuar con led externos a la ICEZUM, y la configuración realizada configura LEDs internos",
+            "readonly": false
+          },
+          "position": {
+            "x": 352,
+            "y": 16
+          },
+          "size": {
+            "width": 1056,
+            "height": 96
+          }
         }
       ],
       "wires": [
@@ -435,10 +451,10 @@
     },
     "state": {
       "pan": {
-        "x": 331.1964,
-        "y": 116.1427
+        "x": -166.137,
+        "y": 19.6027
       },
-      "zoom": 0.6554
+      "zoom": 0.7158
     }
   },
   "dependencies": {

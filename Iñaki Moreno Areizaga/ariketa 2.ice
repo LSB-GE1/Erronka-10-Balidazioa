@@ -204,6 +204,22 @@
             "width": 96,
             "height": 64
           }
+        },
+        {
+          "id": "9b6d7dac-1c90-4096-9380-d491fcd094ec",
+          "type": "basic.info",
+          "data": {
+            "info": "XGI: irteera eta sarrera pin-ak definitzea falta da.",
+            "readonly": false
+          },
+          "position": {
+            "x": 120,
+            "y": -384
+          },
+          "size": {
+            "width": 512,
+            "height": 112
+          }
         }
       ],
       "wires": [
@@ -433,10 +449,10 @@
     },
     "state": {
       "pan": {
-        "x": 599,
-        "y": 257.5
+        "x": 407.6386,
+        "y": 254.7137
       },
-      "zoom": 1
+      "zoom": 0.6295
     }
   },
   "dependencies": {

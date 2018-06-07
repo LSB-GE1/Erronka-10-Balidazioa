@@ -180,6 +180,22 @@
             "width": 96,
             "height": 64
           }
+        },
+        {
+          "id": "cb4a97f7-b4d4-4a09-8994-0c8874a28782",
+          "type": "basic.info",
+          "data": {
+            "info": "XGI:kontzeptu nagusiak oso ondo",
+            "readonly": false
+          },
+          "position": {
+            "x": 464,
+            "y": -16
+          },
+          "size": {
+            "width": 320,
+            "height": 80
+          }
         }
       ],
       "wires": [
@@ -319,10 +335,10 @@
     },
     "state": {
       "pan": {
-        "x": 119,
-        "y": 25.5
+        "x": -27.9675,
+        "y": 28.122
       },
-      "zoom": 1
+      "zoom": 0.8496
     }
   },
   "dependencies": {

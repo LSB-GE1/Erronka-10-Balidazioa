@@ -192,6 +192,22 @@
             "width": 96,
             "height": 64
           }
+        },
+        {
+          "id": "201d0456-738b-484c-9b37-a28a838cbd9f",
+          "type": "basic.info",
+          "data": {
+            "info": "XGI: kontzeptu nagusiak ondo",
+            "readonly": false
+          },
+          "position": {
+            "x": 552,
+            "y": -48
+          },
+          "size": {
+            "width": 288,
+            "height": 80
+          }
         }
       ],
       "wires": [
@@ -357,10 +373,10 @@
     },
     "state": {
       "pan": {
-        "x": -65,
-        "y": 25.5
+        "x": -86.8414,
+        "y": 52.3793
       },
-      "zoom": 1
+      "zoom": 0.7207
     }
   },
   "dependencies": {

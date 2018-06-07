@@ -180,6 +180,22 @@
             "width": 96,
             "height": 64
           }
+        },
+        {
+          "id": "547092c3-b9bd-4ddf-8c37-2ad903104c17",
+          "type": "basic.info",
+          "data": {
+            "info": "XGI: Oso ondo!",
+            "readonly": false
+          },
+          "position": {
+            "x": 496,
+            "y": -48
+          },
+          "size": {
+            "width": 192,
+            "height": 128
+          }
         }
       ],
       "wires": [
@@ -325,10 +341,10 @@
     },
     "state": {
       "pan": {
-        "x": 0,
-        "y": 0
+        "x": -62.8923,
+        "y": 54.7077
       },
-      "zoom": 1
+      "zoom": 0.8038
     }
   },
   "dependencies": {
